@@ -1,0 +1,9 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- <PackageVersion Include="Newtonsoft.Json" Version="8.0.1" /> -->
+  </ItemGroup>
+  <Import Project="Packages.props" />
+</Project>
