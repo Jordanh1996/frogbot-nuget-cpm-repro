@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Pinned locally while we were on the old feed:
+    <PackageReference Include="Newtonsoft.Json" Version="8.0.1" />
+    -->
+    <PackageReference Include="Newtonsoft.Json" />
+  </ItemGroup>
+</Project>
